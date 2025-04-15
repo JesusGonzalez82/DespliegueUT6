@@ -30,7 +30,7 @@ public class ElSaludador extends HttpServlet {
     	request.setAttribute("saludo", saludo);
     	request.getRequestDispatcher("/index.jsp").forward(request, response);
     	}
-    /// Metodo que atiende a las peticiones POST, se limita a llamar a doGet
+    /// Metodo que atiende a las peticiones POST, se limita a llamar a doGet()
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
     		throws ServletException, IOException{
     	doGet(request, response);

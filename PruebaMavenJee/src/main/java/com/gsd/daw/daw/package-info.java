@@ -17,4 +17,30 @@
 /// - Funcionalidad limitada: No permite hacer cosas avanzadas como tablas dinámicas o estilos personalizados sin usar HTML/CSS.
 /// - Soporte variable: Algunas plataformas no implementan todas las funciones de Markdown de la misma manera.
 ///
+/// # Listas
+/// ## Las listas son sencillas
+///		- Java
+///		- SQL
+///		- PHP
+///		- javaScript
+///
+///# Tablas
+/// |Latin|Greek|
+/// |-----|-----|
+/// |  A  |Alpha|
+/// |  B  |Beta |
+/// |  C  |Gamma|
+///
+///# Bloques de Código
+///Los bloques de código los ponemos con triple comilla invertida
+///```
+///main(){
+/// // system.out.println("Hola Mundo")
+///}
+///
+///# Separadores de sección
+///
+///---
+///
+///
 package com.gsd.daw.daw;

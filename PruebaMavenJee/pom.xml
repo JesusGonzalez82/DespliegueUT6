@@ -6,7 +6,7 @@
 
   <groupId>com.uned.daw.daw</groupId>
   <artifactId>PruebaMavenJee</artifactId>
-  <version>1.0</version>
+  <version>1.1.3 JG-Version</version>
   <packaging>war</packaging>
 
   <name>PruebaMavenJee Maven Webapp</name>
