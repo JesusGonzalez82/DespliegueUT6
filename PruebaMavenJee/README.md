@@ -1,7 +1,16 @@
-# Proyecto ejemplo Servlet
+# 📦 Proyecto Ejemplo Servlet
 
-Este un proyecto de ejemplo para practicar con **Markdown** y **GitHub**
+Este es un proyecto de ejemplo para practicar con **Markdown**, **GitHub** y el uso de **Servlets en Java**.  
+Forma parte de un *ejercicio* de la asignatura de **Despliegue de Aplicaciones Web** y está listo para producción.
 
-Este proyecto es un *ejercicio* de la asignatura de **Despliegue Aplicaciones Web** y está listo para produccion
+## 🛠 Tecnologías utilizadas
+
+- Java Servlet API
+- Apache Tomcat
+- HTML, CSS
+- Git y GitHub
+- IDE recomendado: Eclipse o IntelliJ IDEA
+
+## 📁 Estructura del proyecto
 
 
