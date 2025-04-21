@@ -19,10 +19,10 @@
 ///
 /// # Listas
 /// ## Las listas son sencillas
-///		- Java
-///		- SQL
-///		- PHP
-///		- javaScript
+///		-Java
+///		-SQL
+///		-PHP
+///		-JavaScript
 ///
 ///# Tablas
 /// |Latin|Greek|
